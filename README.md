@@ -1,6 +1,6 @@
 # 友链数据源
 
-前端页面： https://resetix.cn/friends/
+前端页面： https://resetsix.cn/friends/
 
 ## 什么类型的网站可以添加
 
