@@ -11,13 +11,13 @@ body:
         - required: true
           label: 合法的、非营利性、无商业广告、无木马植入。
         - required: false
-          label: 有实质性原创内容的 HTTPS 站点，发布过至少 5 篇原创文章，内容题材不限。
+          label: 有实质性原创内容的 HTTPS 站点，发布过至少 1 篇原创文章，内容题材不限。
         - required: false
           label: 有独立域名，非免费域名。
-        - required: false
-          label: 博客已运行至少半年，非刚搭建好。
-        - required: false
-          label: 先友后链：与 xaoxuu 有至少**半年**的有效互动。
+        # - required: false
+        #   label: 博客已运行至少半年，非刚搭建好。
+        # - required: false
+        #   label: 先友后链：与 xaoxuu 有至少**半年**的有效互动。
   - type: textarea
     id: config-file
     validations:
